@@ -1,0 +1,11 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\New Moon\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(19,39): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'DWORD'
+C:\Users\New Moon\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(19,39): warning C4302: 'type cast': truncation from 'BYTE *' to 'DWORD'
+C:\Users\New Moon\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(33,24): error C2664: 'HWND FindWindowW(LPCWSTR,LPCWSTR)': cannot convert argument 2 from 'const char [20]' to 'LPCWSTR'
+C:\Users\New Moon\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(33,41): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(10076,1): message : see declaration of 'FindWindowW'
+C:\Users\New Moon\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(33,24): message : while trying to match the argument list '(int, const char [20])'
+C:\Users\New Moon\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(48,50): error C2065: 'LgameName': undeclared identifier
+C:\Users\New Moon\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(53,38): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID' of greater size
+C:\Users\New Moon\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(58,42): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID' of greater size
+C:\Users\New Moon\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(76,47): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size

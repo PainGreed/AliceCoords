@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\New Moon\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(62,23): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication4.vcxproj -> C:\Users\New Moon\source\repos\ConsoleApplication4\Debug\ConsoleApplication4.exe
